@@ -1,2 +1,2 @@
-# My Calculator
+# Bash Calculator
 A simple Bash calculator.
