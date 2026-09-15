@@ -4,4 +4,4 @@ read -p "Enter second number: " b
  
 echo "Sum = $((a + b))"
 echo "Difference = $((a - b))" 
-
+echo "Product = $((a * b))"
