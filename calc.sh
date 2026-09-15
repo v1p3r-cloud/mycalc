@@ -10,3 +10,4 @@ if [ $b -eq 0 ]; then
 else
     echo "Quotient = $((a / b))"
 fi
+echo "Percentage feature - not finished"
